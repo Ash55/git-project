@@ -1,2 +1,3 @@
 <?php
-echo "index";
+echo "Hello git";
+echo "Hello git2";
